@@ -1,16 +1,30 @@
-## Olá, eu sou Ingrid Alves Moreira (Quenze) 👋
-
 <div align="center">
 
-![Hellow World](https://imgur.com/gallery/93XD4Q7)
+![Hellow World](https://i.imgur.com/mU07r51.gif)
 
 </div>
 
-🎓 Sou Fonoaudióloga de formação em processo de **transição de carreira** para o mundo da tecnologia.
+
+
+## 💫 Sobre mim:
+
+💜 Descobrindo uma paixão pela tecnologia <br>
+🎓 Fonoaudióloga <br>
+🎯 Mirando na transição de carreira <br>
+📚 Uma eterna aprendiz <br>
 
 -------------------
 
-🌐 Conecte-se comigo:
+## 🌐 Conecte-se comigo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingridalvesmoreira/)
-[![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Quenze)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FF00F6&amp;color:FFF")](https://www.linkedin.com/in/ingridalvesmoreira/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://github.com/Quenze)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/werismitt/)
+
+------------------
+
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quenze&theme=radical&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=FF00F6&title_color=FF00F6&text_color=a9fef7)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Quenze&layout=compact&bg_color=000&border_color=30A3DC&title_color=FF00F6&text_color=a9fef7)
+
