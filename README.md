@@ -1,5 +1,11 @@
 ## Olá, eu sou Ingrid Alves Moreira (Quenze) 👋
 
+<div align="center">
+
+![Hellow World](https://imgur.com/gallery/93XD4Q7)
+
+</div>
+
 🎓 Sou Fonoaudióloga de formação em processo de **transição de carreira** para o mundo da tecnologia.
 
 -------------------
