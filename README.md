@@ -18,7 +18,7 @@
 ## 🌐 Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FF00F6&amp;color:FFF")](https://www.linkedin.com/in/ingridalvesmoreira/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://github.com/Quenze)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://github.com/Werismitt)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/werismitt/)
 
 ------------------
